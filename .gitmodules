@@ -1,0 +1,6 @@
+[submodule "uCore-Code-Jude-Lu"]
+	path = uCore-Code-Jude-Lu
+	url = git@github.com:Jude-Lu/uCore-Code-Jude-Lu.git
+[submodule "uCore-Test-Jude-Lu"]
+	path = uCore-Test-Jude-Lu
+	url = git@github.com:Jude-Lu/uCore-Test-Jude-Lu.git
